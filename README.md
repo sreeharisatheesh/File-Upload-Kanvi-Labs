@@ -35,7 +35,8 @@ A secure and minimalistic file upload and download service built with **FastAPI*
 
 ## 📁 Project Structure
 
-File-Upload-Kanvi-Labs/ ├── fileupload/ # Uploaded files directory 
+```bash
+├── fileupload/ # Uploaded files directory 
 ├── templates/ # HTML templates (login, register, upload) │ 
     ├── login.html │ 
     ├── register.html │ 
@@ -45,7 +46,7 @@ File-Upload-Kanvi-Labs/ ├── fileupload/ # Uploaded files directory
 ├── main.py # FastAPI application routes 
 ├── models.py # SQLAlchemy ORM models 
 └── pycache/ # Python cache files
-
+```
 
 ## 🚀 Getting Started
 
